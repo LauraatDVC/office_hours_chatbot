@@ -10,6 +10,7 @@ office_hours_chatbot/
 ✅ How to Run
 
 Save everything to a folder, e.g., office_hours_chatbot
+*** You may need to add an OPENAI_API_KEY in .env file. Check with the professor
 
 Install Flask if you haven’t:
 
